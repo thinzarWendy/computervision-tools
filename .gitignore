@@ -4,3 +4,5 @@ classification/.venv/
 
 # Jupyter Notebook
 .ipynb_checkpoints
+
+.vscode/
