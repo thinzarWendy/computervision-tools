@@ -6,3 +6,4 @@ classification/.venv/
 .ipynb_checkpoints
 
 .vscode/
+classification/data/
