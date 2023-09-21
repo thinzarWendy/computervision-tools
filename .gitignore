@@ -1,2 +1,6 @@
 #Environment 
 classification/.venv/
+
+
+# Jupyter Notebook
+.ipynb_checkpoints
