@@ -7,3 +7,4 @@ classification/.venv/
 
 .vscode/
 classification/data/
+classification/data_test/
